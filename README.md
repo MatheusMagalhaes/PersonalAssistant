@@ -10,7 +10,7 @@ A project made with HTML, CSS and Java Script Pure.
 There is several commands avaible.
 1. Hour
 2. Weather
-3. Dollar in Real
+3. Dollar to Real
 4. Change the assistant name
 5. Ask about Simple Mathematic Expression.
 
